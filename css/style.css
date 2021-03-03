@@ -12,6 +12,13 @@ h2 {
     text-align: center;
 }
 
+hr {
+    font-size: 50px;
+    color: rgb(81, 182, 34);
+    background-color: rgb(78, 48, 184);
+    text-align: center;
+}
+
 body {
     background-color: indigo;
     color: khaki;
